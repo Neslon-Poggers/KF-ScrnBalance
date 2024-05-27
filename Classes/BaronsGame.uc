@@ -80,11 +80,11 @@ function BaronDead()
 
 defaultproperties
 {
-    strNewBaron="%p is a Baron of the Wave! Protect him from Gorefasts!"
+    strNewBaron="%p is the Baron of the Wave! Protect him from the Gorefasts!"
     strBaronDead="BARON IS DEAD. GAME OVER!"
 
     GameName="Baron's Game"
-    Description="Every wave a random player is picked to be the Baron of the Wave. He gets blamed and all Gorefasts will chase him. If Baron dies, team gets wiped."
+    Description="Every wave a random player is picked to be the Baron of the Wave. He gets blamed and all Gorefasts will chase him. If Baron dies, the team gets wiped."
     ScreenShotName="ScrnTex.Players.Baron"
     KFHints[0]="Every wave a random player is picked to be the Baron of the Wave."
     KFHints[1]="All Gorefasts are blindly following Baron."
